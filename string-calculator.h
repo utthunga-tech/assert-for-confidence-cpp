@@ -1,1 +1,3 @@
-   int Add(string numbers);
+#include <string>
+using namespace std;
+int Add(string numbers);
